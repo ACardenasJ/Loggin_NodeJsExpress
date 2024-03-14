@@ -8,3 +8,9 @@
 2024-03-14T14:44:59.543Z error: This is an error message
 2024-03-14T14:44:59.543Z warn: This is a warning message
 2024-03-14T14:44:59.543Z info: This is an info message
+2024-03-14T15:20:30.413Z info: Received a POST request for /testLogin
+2024-03-14T15:20:30.416Z error: This is an error message
+2024-03-14T15:20:30.416Z warn: This is a warning message
+2024-03-14T15:20:30.416Z info: This is an info message
+2024-03-14T15:20:30.416Z verbose: This is a verbose message
+2024-03-14T15:20:30.416Z debug: This is a debug message
