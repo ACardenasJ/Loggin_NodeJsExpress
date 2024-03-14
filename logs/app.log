@@ -1,0 +1,10 @@
+{"level":"error","message":"This is an error message"}
+{"level":"warn","message":"This is a warning message"}
+{"level":"info","message":"This is an info message"}
+{"level":"error","message":"This is an error message"}
+{"level":"warn","message":"This is a warning message"}
+{"level":"info","message":"This is an info message"}
+2024-03-14T14:44:59.540Z info: Received a POST request for /testLogin
+2024-03-14T14:44:59.543Z error: This is an error message
+2024-03-14T14:44:59.543Z warn: This is a warning message
+2024-03-14T14:44:59.543Z info: This is an info message
